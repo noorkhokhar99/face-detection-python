@@ -15,6 +15,7 @@ For more information, [see](https://docs.opencv.org/master/d7/d8b/tutorial_py_fa
 
 ### Working Example
 
+<img src="https://github.com/noorkhokhar99/face-detection-python/blob/main/Screen%20Shot%201444-03-23%20at%206.46.27%20PM.png">
 
 
 ### Execution
